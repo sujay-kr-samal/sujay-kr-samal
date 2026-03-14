@@ -1,11 +1,8 @@
 <div align="center">
 
-![Sujay Kr Samal Banner](./banner.png)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a0533,100:0d1b2a&height=200&section=header&text=SUJAY%20KR%20SAMAL&fontSize=50&fontColor=00f5ff&fontAlignY=38&desc=Student%20%7C%20Explorer%20%7C%20Tech%20Wanderer&descColor=bf5fff&descAlignY=58" />
 
-<!-- Typing Animation -->
-<a href="https://github.com/sujay-kr-samal">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=🚀+Exploring+Every+Corner+of+Tech;💻+Full+Stack+%7C+Systems+%7C+AI+%7C+Everything;⚡+Building+the+Future%2C+One+Commit+at+a+Time;🌌+Student+of+the+Digital+Universe" alt="Typing SVG" />
-</a>
+### 🚀 Exploring Every Corner of Tech &nbsp;|&nbsp; 💻 Full Stack · Systems · AI · Everything &nbsp;|&nbsp; 🌌 Student of the Digital Universe
 
 <br/>
 
@@ -159,5 +156,5 @@ class SujayKrSamal:
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a0533,100:0d0d2b&height=120&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a0533,100:0d0d2b&height=120&section=footer" />
 </div>
