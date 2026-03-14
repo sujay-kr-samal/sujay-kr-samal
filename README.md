@@ -1,75 +1,88 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a0533,100:0d1b2a&height=200&section=header&text=SUJAY%20KR%20SAMAL&fontSize=50&fontColor=00f5ff&fontAlignY=38&desc=Student%20%7C%20Explorer%20%7C%20Tech%20Wanderer&descColor=bf5fff&descAlignY=58" />
-
-### 🚀 Exploring Every Corner of Tech &nbsp;|&nbsp; 💻 Full Stack · Systems · AI · Everything &nbsp;|&nbsp; 🌌 Student of the Digital Universe
-
-<br/>
-
-<!-- Visitor Counter + Profile Views -->
-![Visitors](https://komarev.com/ghpvc/?username=sujay-kr-samal&color=00f5ff&style=for-the-badge&label=VISITORS)
-[![GitHub followers](https://img.shields.io/github/followers/sujay-kr-samal?style=for-the-badge&color=bf5fff&labelColor=0d0d2b&logo=github&label=FOLLOWERS)](https://github.com/sujay-kr-samal)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=SUJAY%20KR%20SAMAL&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=一人のフルスタック開発者・オープンソースの侍&descAlignY=58&descAlign=50&descSize=18"/>
 
 </div>
-
----
 
 <div align="center">
 
-## 🌌 `[ WHO AM I ]`
+<img src="https://readme-typing-svg.demolab.com?font=Zen+Dots&size=22&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=60&lines=Full+Stack+Developer+%7C+Open+Source+Warrior;Building+in+the+shadows...+shipping+in+the+light+%E2%9C%A8;%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AF%E5%89%A3%E3%81%A7%E3%81%82%E3%82%8B+%7C+Code+is+my+Katana+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+
+<br/>
+
+![](https://img.shields.io/badge/弐-Full_Stack-A78BFA?style=for-the-badge&labelColor=1a1a2e)
+![](https://img.shields.io/badge/参-Open_Source-7dd3fc?style=for-the-badge&labelColor=1a1a2e)
+![](https://img.shields.io/badge/壱-India_🇮🇳-f472b6?style=for-the-badge&labelColor=1a1a2e)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sujay-kr-samal&label=訪問者数&color=A78BFA&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/sujay-kr-samal?label=仲間&style=for-the-badge&color=7dd3fc" />
 
 </div>
 
-```python
-class SujayKrSamal:
-    def __init__(self):
-        self.name       = "Sujay Kr Samal"
-        self.alias      = "The Tech Explorer"
-        self.role       = "Student & Lifelong Learner"
-        self.fields     = ["Web Dev", "Systems", "ML/AI", "Desktop Apps", "Databases"]
-        self.philosophy = "No field is off-limits. Every tech is a new universe."
-        self.status     = "🔭 Currently exploring... everything."
+<br/>
 
-    def greet(self):
-        return "Welcome to my corner of the digital cosmos 🌠"
+---
+
+<br/>
+
+<div align="center">
+
+## 巻之一 · 自己紹介 · About Me
+
+</div>
+
+```typescript
+const sujay = {
+  name: "Sujay Kr Samal",
+  kanji: "須杰・クル・サマル",
+  title: "Full Stack Developer & Open Source Samurai",
+  origin: "India 🇮🇳",
+
+  philosophy: "Ship fast. Break things. Fix them. Repeat.",
+
+  currentArc: [
+    "⚔️  Mastering the Full Stack arts",
+    "🌸  Contributing to Open Source projects",
+    "📜  Writing clean, readable code",
+    "🏯  Building products that matter"
+  ],
+
+  techScrolls: {
+    frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend:   ["Node.js", "Express", "REST APIs", "GraphQL"],
+    database:  ["MongoDB", "PostgreSQL", "Redis"],
+    devops:    ["Docker", "Git", "CI/CD", "Vercel"],
+  },
+
+  openSource: "Every PR is a step toward mastery 🌸",
+
+  contactScroll: "sujay@email.com"
+};
 ```
 
 <br/>
 
 ---
 
-<div align="center">
-
-## ⚡ `[ TECH ARSENAL ]`
-
-*The tools of a wanderer*
-
-</div>
+<br/>
 
 <div align="center">
 
-### 🌐 Web & Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## 巻之二 · 武器庫 · Tech Arsenal
 
-### 🖥️ Backend & Runtime
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### ⚔️ Frontend Jutsu
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,redux&theme=dark" />
 
-### 🔧 Systems & Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🌊 Backend Jutsu
 
-### 🖱️ Desktop
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=47848F)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis,firebase,graphql,java&theme=dark" />
+
+### 🏯 DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel,linux,figma&theme=dark" />
 
 </div>
 
@@ -77,24 +90,42 @@ class SujayKrSamal:
 
 ---
 
+<br/>
+
 <div align="center">
 
-## 📊 `[ GITHUB CHRONICLES ]`
+## 巻之三 · 修行記録 · Battle Stats
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujay-kr-samal&bg_color=0f0c29&color=A78BFA&line=7dd3fc&point=f472b6&area=true&hide_border=true&custom_title=コミット歴史　·　Commit+Chronicles" width="100%"/>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=sujay-kr-samal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=f472b6&text_color=ffffff&ring_color=7dd3fc" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujay-kr-samal&theme=tokyonight&hide_border=true&background=0f0c29&stroke=A78BFA&ring=7dd3fc&fire=f472b6&currStreakLabel=A78BFA" width="100%"/>
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujay-kr-samal&layout=donut&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=ffffff" width="45%"/>
 
 </div>
 
+<br/>
+
+---
+
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujay-kr-samal&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d2b&title_color=00f5ff&icon_color=bf5fff&text_color=c9d1d9&ring_color=00f5ff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujay-kr-samal&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d2b&title_color=00f5ff&text_color=c9d1d9" height="165" />
+## 巻之四 · 栄誉 · Hall of Fame
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujay-kr-samal&theme=midnight-purple&hide_border=true&background=0d0d2b&stroke=00f5ff&ring=bf5fff&fire=ff6e96&currStreakLabel=00f5ff&sideLabels=bf5fff" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujay-kr-samal&theme=tokyo-night&bg_color=0d0d2b&color=00f5ff&line=bf5fff&point=ff6e96&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=sujay-kr-samal&theme=tokyonight&no-frame=true&margin-w=10&row=1" width="100%"/>
 
 </div>
 
@@ -102,59 +133,75 @@ class SujayKrSamal:
 
 ---
 
-<div align="center">
-
-## 🛸 `[ PROJECTS ]`
-
-*Transmissions from the build log*
-
-</div>
-
-> 🚧 **Projects launching soon...** The lab is active. Check back for deployed missions.
-
-<!-- Uncomment and fill in when ready:
-<div align="center">
-
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=sujay-kr-samal&repo=YOUR_REPO&theme=midnight-purple&hide_border=true&bg_color=0d0d2b&title_color=00f5ff&icon_color=bf5fff&text_color=c9d1d9)](https://github.com/sujay-kr-samal/YOUR_REPO)
-
-</div>
--->
-
 <br/>
 
----
-
 <div align="center">
 
-## 🌠 `[ CURRENT MISSION ]`
+## 巻之五 · 仲間 · Connect
 
-</div>
+<a href="https://linkedin.com/in/sujay-kr-samal">
+<img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sujay@email.com">
+<img src="https://img.shields.io/badge/Mail-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/sujay-kr-samal">
+<img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 ```
-┌─────────────────────────────────────────────────────┐
-│  🔭  Exploring    →   Every field of technology      │
-│  📚  Learning     →   New stacks, new paradigms      │
-│  🛠️  Building     →   Projects that matter           │
-│  🤝  Open to      →   Collaborations & new ideas     │
-└─────────────────────────────────────────────────────┘
+ 連絡先 (Contact):  sujay@email.com
+ 応答速度 (Response): As fast as a shonen protagonist's power-up ⚡
+ 活動時間 (Active):  When the code calls, I answer 🌙
 ```
+
+</div>
 
 <br/>
 
 ---
 
-<div align="center">
-
-## 📡 `[ CONNECT ]`
-
-[![GitHub](https://img.shields.io/badge/GitHub-sujay--kr--samal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujay-kr-samal)
-
 <br/>
 
-*"The universe is big. So is the codebase."*
+<div align="center">
+
+## 🐍 Contribution Snake
+
+![Snake Animation](https://github.com/sujay-kr-samal/sujay-kr-samal/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
+<br/>
+
+---
+
+<br/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a0533,100:0d0d2b&height=120&section=footer" />
+
+## 巻之終 · 名言 · Final Words
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+
+<br/><br/>
+
+```
+  「強くなりたいなら、まず正直でいることだ」
+  "If you want to grow stronger, first be honest with yourself."
+  
+  — Sujay Kr Samal · Full Stack Dev · Open Source Samurai
+```
+
+<br/>
+
+<img src="https://img.shields.io/badge/MADE_WITH-抹茶_&_☕-A78BFA?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/POWERED_BY-情熱_(Passion)-f472b6?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/SPIRIT-侍_Samurai-7dd3fc?style=for-the-badge&labelColor=1a1a2e"/>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&text=また会う日まで　·　Until+We+Meet+Again&fontSize=22&fontColor=A78BFA&animation=twinkling&fontAlignY=65"/>
+
 </div>
