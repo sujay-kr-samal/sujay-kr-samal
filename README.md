@@ -140,7 +140,7 @@ const sujay = {
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/sujay-kr-samal/sujay-kr-samal/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<img src=".github/workflow/snake.yml" alt="Snake Animation" />
 
 </div>
 
