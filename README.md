@@ -57,7 +57,7 @@ const sujay = {
 
   openSource: "Every PR is a step toward mastery 🌸",
 
-  contact: "sujay@email.com"   // replace with your real email
+  contact: "sujaykrsamal@gmail.com"
 };
 ```
 
@@ -155,7 +155,8 @@ const sujay = {
 <a href="https://linkedin.com/in/sujay-kr-samal">
 <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:sujay@email.com">
+
+<a href="mailto:sujaykrsamal@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/sujay-kr-samal">
@@ -165,7 +166,7 @@ const sujay = {
 <br/><br/>
 
 ```
- れんらくさき (Contact)  :  sujay@email.com
+ れんらくさき (Contact)  :  sujaykrsamal@gmail.com
  へんじのはやさ (Response):  Faster than a shonen power-up ⚡
  かつどうじかん (Active)  :  When the code calls, I answer 🌙
 ```
