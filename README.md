@@ -126,7 +126,7 @@ const sujay = {
 
 ## 🏆 Hall of Fame
 
-<img src="https://github-profile-trophy.vercel.app/?username=sujay-kr-samal&theme=tokyonight&no-frame=true&margin-w=10&row=1" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sujay-kr-samal&theme=tokyonight&no-frame=true&margin-w=15&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
 
 </div>
 
