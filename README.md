@@ -124,9 +124,15 @@ const sujay = {
 
 <div align="center">
 
-## 🏆 Hall of Fame
+## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=sujay-kr-samal&theme=tokyonight&no-frame=true&margin-w=15&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujay-kr-samal&theme=tokyonight" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujay-kr-samal&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujay-kr-samal&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujay-kr-samal&theme=tokyonight&utcOffset=5.5" width="32%"/>
 
 </div>
 
