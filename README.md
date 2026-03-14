@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=SUJAY%20KR%20SAMAL&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Your+Friendly+Neighborhood+Full+Stack+Developer&descAlignY=58&descAlign=50&descSize=20"/>
 
@@ -205,4 +205,3 @@ const sujay = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&text=Until+We+Meet+Again&fontSize=28&fontColor=A78BFA&animation=twinkling&fontAlignY=65"/>
 
 </div>
-](https://github-profile-trophy.vercel.app/?username=sujay-kr-samal&theme=tokyonight&no-frame=true&margin-w=15&column=7)
