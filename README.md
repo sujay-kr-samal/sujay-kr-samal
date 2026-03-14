@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a0533,100:0d1b2a&height=200&section=header&text=SUJAY%20KR%20SAMAL&fontSize=50&fontColor=00f5ff&fontAlignY=38&desc=Student%20%7C%20Explorer%20%7C%20Tech%20Wanderer&descColor=bf5fff&descAlignY=58&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a0533,100:0d1b2a&height=200&section=header&text=SUJAY%20KR%20SAMAL&fontSize=50&fontColor=00f5ff&fontAlignY=38&desc=Student%20%7C%20Explorer%20%7C%20Tech%20Wanderer&descColor=bf5fff&descAlignY=58&animation=twinkling&fontAlign=50&customColorList=0,2,2,5,30&font=Anurati" />
 
 <!-- Typing Animation -->
 <a href="https://github.com/sujay-kr-samal">
