@@ -1,7 +1,42 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a0533,100:0d1b2a&height=200&section=header&text=SUJAY%20KR%20SAMAL&fontSize=50&fontColor=00f5ff&fontAlignY=38&desc=Student%20%7C%20Explorer%20%7C%20Tech%20Wanderer&descColor=bf5fff&descAlignY=58&animation=twinkling&fontAlign=50&customColorList=0,2,2,5,30&font=Anurati" />
+<!-- Animated Banner with Anurati Font via SVG -->
+<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.cdnfonts.com/css/anurati');
+      @import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&display=swap');
+      .name { font-family: 'Anurati', sans-serif; font-size: 52px; fill: #00f5ff; letter-spacing: 6px; }
+      .desc { font-family: 'Exo 2', sans-serif; font-size: 17px; fill: #bf5fff; letter-spacing: 3px; }
+    </style>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d2b"/>
+      <stop offset="50%" style="stop-color:#1a0533"/>
+      <stop offset="100%" style="stop-color:#0d1b2a"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <!-- Background -->
+  <rect width="860" height="200" fill="url(#bg)" rx="10"/>
+  <!-- Stars -->
+  <circle cx="50" cy="30" r="1.2" fill="#00f5ff" opacity="0.6"/>
+  <circle cx="200" cy="15" r="0.8" fill="#bf5fff" opacity="0.7"/>
+  <circle cx="400" cy="10" r="1.5" fill="#00f5ff" opacity="0.5"/>
+  <circle cx="650" cy="25" r="1" fill="#ffffff" opacity="0.5"/>
+  <circle cx="820" cy="40" r="1.2" fill="#bf5fff" opacity="0.6"/>
+  <circle cx="760" cy="170" r="0.9" fill="#00f5ff" opacity="0.5"/>
+  <circle cx="100" cy="170" r="1.1" fill="#ffffff" opacity="0.4"/>
+  <circle cx="300" cy="185" r="0.7" fill="#bf5fff" opacity="0.5"/>
+  <!-- Bottom wave shape -->
+  <path d="M0,160 Q215,200 430,160 T860,160 L860,200 L0,200 Z" fill="#0d0d2b" opacity="0.5"/>
+  <!-- Name -->
+  <text x="430" y="110" text-anchor="middle" class="name" filter="url(#glow)">SUJAY KR SAMAL</text>
+  <!-- Desc -->
+  <text x="430" y="152" text-anchor="middle" class="desc">Student · Explorer · Tech Wanderer</text>
+</svg>
 
 <!-- Typing Animation -->
 <a href="https://github.com/sujay-kr-samal">
