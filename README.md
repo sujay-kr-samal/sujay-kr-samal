@@ -2,7 +2,9 @@
 
 # Hey, I'm Sujay Kr Samal 👋
 
-> Curious enough to explore everything. Dedicated enough to master what matters.
+*“Curious enough to explore everything. Dedicated enough to master what matters.”*
+
+---
 
 I'm an 18-year-old who loves technology in all its forms. If something catches my interest, I'll probably spend hours learning how it works, breaking it, fixing it, and building something with it.
 
@@ -11,8 +13,10 @@ I enjoy exploring different areas like AI, software development, cybersecurity, 
 ---
 
 ### 🚀 Things I Enjoy
-💻 Building software • 🤖 AI & Machine Learning • 🔐 Cybersecurity
-🌐 Web Development • ⚡ Automation • 🛠️ Open Source
+💻 Building software • 🤖 AI & Machine Learning • 🔐 Cybersecurity 
+
+🌐 Web Development • ⚡ Automation • 🛠️ Open Source 
+
 📚 Learning something new every day
 
 ---
