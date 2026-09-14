@@ -13,7 +13,7 @@ I enjoy exploring different areas like AI, software development, cybersecurity, 
 ---
 
 ### 🚀 Things I Enjoy
-💻 Building software • 🤖 AI & Machine Learning • 🔐 Cybersecurity 
+💻 Building software • 🤖 AI & Machine Learning 
 
 🌐 Web Development • ⚡ Automation • 🛠️ Open Source 
 
